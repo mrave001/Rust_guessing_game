@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["atty","colored","guessing_game","lazy_static","libc","rand"];
